@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
               backgroundImage: AssetImage('images/avatar.png'),
             ),
             Text(
-              "Vitalii Surname",
+              ".Vitalii Surname.",
               style: TextStyle(
                   fontSize: 40.0,
                   color: Colors.white,
